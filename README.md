@@ -20,7 +20,7 @@ To start predicting movie genres, first you need to start the server:
 $ python3 server.py 
 ```
 
-After the server is running, you can predict movie genres by using the `request.py` script to make requests to the API
+After the server is successfully started up, you can predict movie genres by using the `request.py` script to make the following type of POST request to the API
 
 ```shell
 $ python3 request.py --title "The Matrix" --description "A programmer is brought back to reason and reality when learning he was living in a program created by gigantic machines which make human birth artificial. In order to set humanity free, Neo will have to face many enemies by using technologies and self-trust."
