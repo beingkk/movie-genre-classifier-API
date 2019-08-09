@@ -1,4 +1,4 @@
-# Movie genre classifier app
+# Movie genre classifier API
 Flask app with REST API for classifying movie genres based on their title and description. This is an exercise to deploy this [movie genre classifier](https://github.com/beingkk/movie-genre-classifier) model with an API.
 
 ## Installation
